@@ -1,5 +1,5 @@
 ## DNS verifier plugin for Certbot
-
+[![Build Status](https://travis-ci.org/fzhyzamt/certbot-dns-verifier.svg?branch=master)](https://travis-ci.org/fzhyzamt/certbot-dns-verifier)
 ### Support dns providers
 - DNSPod
 
