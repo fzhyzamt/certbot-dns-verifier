@@ -7,6 +7,6 @@ python:
   - "3.7"
 cache: pip
 install:
-  - pip install -q -e . --use-mirrors
+  - pip install -q -e .
 script:
   - python setup.py test
