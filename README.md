@@ -1,6 +1,9 @@
 ## DNS verifier plugin for Certbot
 [![Build Status](https://travis-ci.org/fzhyzamt/certbot-dns-verifier.svg?branch=master)](https://travis-ci.org/fzhyzamt/certbot-dns-verifier)
 [![codecov](https://codecov.io/gh/fzhyzamt/certbot-dns-verifier/branch/master/graph/badge.svg)](https://codecov.io/gh/fzhyzamt/certbot-dns-verifier)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/fzhyzamt/certbot-dns-verifier/blob/master/LICENSE)
+
+
 ### Support dns providers
 - DNSPod
 
