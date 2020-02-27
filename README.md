@@ -21,6 +21,8 @@ After installed, You should see plugin in list
 $ certbot plugins
 ```
 
+If you use `sudo pip`, maybe used pip is system, you should use `sudo /opt/eff.org/certbot/venv/bin/pip`
+
 ### Credentials File
 
 You can get the api id and token in the [DNSPod console](https://www.dnspod.cn/console/user/security).
