@@ -9,6 +9,8 @@
 
 ### Install
 
+> You must install certbot before starting to install the plugin, see [Get Certbot](https://certbot.eff.org/docs/install.html)
+
 ```bash
 $ cd /opt/eff.org/certbot/venv
 $ source bin/activate
