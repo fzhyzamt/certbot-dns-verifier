@@ -29,11 +29,10 @@ If you use `sudo pip`, maybe used pip is system, you should use `sudo /opt/eff.o
 
 You can get the api id and token in the [DNSPod console](https://www.dnspod.cn/console/user/security).
 ```ini
+# /root/.secrets/certbot/dnspod.ini
 certbot_dns_verifier:dns_dnspod_api_id = 12345
 certbot_dns_verifier:dns_dnspod_api_token = foo
 ```
-
-
 
 ### Obtain Certificates
 
